@@ -1,2 +1,2 @@
 # Visualizations-Qubits-2023
-Code support Qubits 2023 presentation on visualization
+This repo contains code in support a Qubits 2023 presentation on visualizations.
